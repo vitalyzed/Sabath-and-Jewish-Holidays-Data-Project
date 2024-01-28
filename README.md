@@ -37,7 +37,7 @@ Key Features
 * Language Support: Implement English-Hebrew translations to make your application accessible and user-friendly for both English and Hebrew-speaking audiences.
 Explore the Jewish Holidays Integration Project to bring a rich cultural and religious experience to your application, fostering a deeper connection with users who observe Jewish traditions.
 
-## Important Prerequisits
+## Important Prerequisites
 Before deploying the Jewish Holidays Integration Project as a Google Cloud Function in a Python environment, ensure the following prerequisites are met: 
 * Python Environment (Both for Testing on-prem and in your GCP Cloud Functions enviorenement): Google Cloud Functions support Python.
   Confirm that your script is compatible with the version of Python supported by Google Cloud Functions.
